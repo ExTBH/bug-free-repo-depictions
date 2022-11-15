@@ -16,11 +16,8 @@ div.image_preview {
 div.image_preview img {
     display: inline-block;
     object-fit: contain;
-    width: 200px;
-    max-width: 50vw;
+    width: 80vw;
+    max-width: 90vw;
     max-height: 100vh;
     margin: 10px;
-}
-div.image_preview img:focus {
-    width: 300px;
 }
