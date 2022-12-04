@@ -16,7 +16,7 @@ div.image_preview {
 div.image_preview img {
     display: inline-block;
     object-fit: contain;
-    width: 80vw;
+    width: 80%;
     max-width: 90vw;
     max-height: 100vh;
     margin: 10px;
